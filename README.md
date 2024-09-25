@@ -1,4 +1,5 @@
-Data Visualization Projects
+#Data Visualization Projects
+
 A collection of data visualization projects built using Tableau and Power BI. These projects demonstrate how to turn raw data into meaningful insights with interactive dashboards.
 
 Projects
